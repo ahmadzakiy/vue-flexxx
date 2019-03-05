@@ -13,6 +13,11 @@ npm install
 npm run serve
 ```
 
+### Build for Library
+```
+npm run build:lib
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
