@@ -1,4 +1,5 @@
-# vue-flex
+# vue-flexxx
+
 ### Vue single file component for Flex layout
 
 - Based by Vue-Cli 3.0

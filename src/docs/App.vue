@@ -43,7 +43,8 @@
 </template>
 
 <script>
-import {FlexContainer, FlexItem} from '../lib.js'
+import FlexContainer from '../components/FlexContainer'
+import FlexItem from '../components/FlexItem'
 
 export default {
   name: 'app',
