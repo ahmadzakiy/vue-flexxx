@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Vue Flex</h1>
+    <h1>Vue Flexxx</h1>
 
     <flex-container 
       direction="row"
